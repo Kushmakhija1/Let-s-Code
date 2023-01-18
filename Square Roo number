@@ -1,0 +1,10 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main(){
+    float n,ans=0;
+    cout<<"Enter the number"<<endl;
+    cin>>n;
+    ans=sqrt(n);
+    cout<<ans;
+}
